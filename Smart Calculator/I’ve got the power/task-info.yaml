@@ -210,6 +210,13 @@ files:
     if __name__ == '__main__':
         CalcTest("calculator.calculator").run_tests()
   learner_created: false
+- name: calculator/testing.py
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/74/stages/415/implement
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations! Continue on <a href="https://hyperskill.org/projects/74/stages/415/implement">JetBrains
+    Academy</a>
+  time: Thu, 12 Nov 2020 17:46:58 UTC
 record: -1
